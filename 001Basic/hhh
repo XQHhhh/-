@@ -5,7 +5,11 @@
     <title>Title</title>
     <style type="text/css">
     body{
-    background-image: url(image/0.jpg)}
+    background-image: url(image/0.jpg);
+    backgroud-size:100% 100%;
+    
+    }
+    html{height:100%;}
 </head>
 <body>
 <h1>静夜思</h1>
